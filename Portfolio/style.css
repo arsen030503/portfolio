@@ -1,0 +1,82 @@
+#about{
+    height: 300px;
+}
+
+
+body {
+    font-family: cursive, sans-serif;
+    background-color: deepskyblue;
+}
+
+nav {
+    background-color: rgb(57, 252, 3);
+    color: white;
+    padding: 1px;
+}
+  
+  nav ul {
+    list-style-type: none;
+    text-align: center;
+    
+  }
+
+
+
+    nav ul li a {
+        color: orangered;
+        text-decoration: none;
+    }
+
+
+  
+  
+  
+  
+  
+  section#contact {
+    background-color: white;
+  }
+ 
+  .image {
+    width: 320px; 
+    height: 240px;
+    position: absolute;
+    right: 0;
+    padding: 50px;
+    margin-left: 300px;
+   
+      }
+      
+
+footer {
+    background-color: #999;
+    color: white;
+    padding: 50px;
+    text-align: center;
+  }
+  
+  footer #contact {
+    background-color: transparent; 
+    text-align: right;
+    padding: 100px;
+  
+  }
+  
+  footer #contact ul {
+    list-style-type: none;
+    padding: 10px;
+    text-align: right;
+    
+  }
+  
+  footer #contact li {
+    margin-right: 10px;
+  }
+  
+  footer #contact a {
+    color: white;
+    text-decoration: none;
+  }
+  
+
+  
